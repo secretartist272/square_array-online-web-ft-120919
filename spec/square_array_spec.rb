@@ -1,5 +1,6 @@
+
 require_relative '../square_array"
-require 'spec_helper'
+
 
 describe '#square_array' do
 
